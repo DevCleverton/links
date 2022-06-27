@@ -11,7 +11,7 @@
    ## 💡 Use
 - Clone este repositorio
   ```bash
-  git clone https://github.com/ErnaneJ/links.git
+  git clone 
   ```
 - Instale as dependencias...
   
